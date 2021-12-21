@@ -8,3 +8,13 @@ C:\Users\федор\source\repos\idz11\obj\Debug\idz11.csproj.GenerateResource.c
 C:\Users\федор\source\repos\idz11\obj\Debug\idz11.csproj.CoreCompileInputs.cache
 C:\Users\федор\source\repos\idz11\obj\Debug\idz11.exe
 C:\Users\федор\source\repos\idz11\obj\Debug\idz11.pdb
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\bin\Debug\idz11.exe.config
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\bin\Debug\idz11.exe
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\bin\Debug\idz11.pdb
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\obj\Debug\idz11.csproj.AssemblyReference.cache
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\obj\Debug\idz11.Form1.resources
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\obj\Debug\idz11.Properties.Resources.resources
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\obj\Debug\idz11.csproj.GenerateResource.cache
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\obj\Debug\idz11.csproj.CoreCompileInputs.cache
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\obj\Debug\idz11.exe
+C:\Users\федор\Desktop\программирование и проекты\Git\idz11g\idz11\obj\Debug\idz11.pdb
